@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "ConsoleApp10/1.0.0": {
+      "ConsoleApp5/1.0.0": {
         "runtime": {
-          "ConsoleApp10.dll": {}
+          "ConsoleApp5.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ConsoleApp10/1.0.0": {
+    "ConsoleApp5/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
